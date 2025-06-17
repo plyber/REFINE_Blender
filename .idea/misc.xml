@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="REFINE_Blender" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="REFINE_Blender" project-jdk-type="Python SDK" />
 </project>
