@@ -1,0 +1,26 @@
+# Model checkpoints
+refine_plugin/models/DnCNN_sigma25.pth
+refine_plugin/models/drunet_color.pth
+refine_plugin/models/drunet_gray.pth
+refine_plugin/models/gaussian_color_denoising_blind.pth
+refine_plugin/models/gaussian_color_denoising_sigma15.pth
+refine_plugin/models/gaussian_color_denoising_sigma25.pth
+refine_plugin/models/gaussian_color_denoising_sigma50.pth
+refine_plugin/models/RealESRGAN_x4plus.pth
+
+# Archive files
+refine_plugin.zip
+refine_plugin-v1.0.1.zip
+refine_plugin-v1.0.2.zip
+refine_plugin-v1.0.3.zip
+refine_plugin-v1.0.4.zip
+refine_plugin-v1.0.5.zip
+refine_plugin-v1.0.6.zip
+refine_plugin-v1.1.0.zip
+refine_plugin-v1.1.1.zip
+refine_plugin-v1.2.1.zip
+refine_plugin-v1.2.2.zip
+
+# Local dependencies
+refine_plugin/deps/
+refine_plugin/libs/
